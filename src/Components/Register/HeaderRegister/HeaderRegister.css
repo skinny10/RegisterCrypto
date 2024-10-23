@@ -1,0 +1,21 @@
+* {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.content-header {
+    display: grid;
+    place-items: center;
+}
+
+.h1-text {
+    font-size: 35px;
+}
+
+.h2-text {
+    font-size: 15px;
+}
+
+img {
+    width: 200px;
+}
